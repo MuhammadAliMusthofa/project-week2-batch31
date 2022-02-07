@@ -102,8 +102,8 @@ function renderBlog() {
             </div>
 
             <div class="btn-group">
-                <button class="btn-edit">Edit Post</button>
-                <button class="btn-post">Post Blog</button>
+                <button class="btn-edit">Edit project</button>
+                <button class="btn-post">Post project</button>
               </div>
           </div>
         </div>`;
